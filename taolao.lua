@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 if getgenv().celina_Running then
     warn("Script already running!")
     return
