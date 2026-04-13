@@ -1,4 +1,3 @@
--- :)
 if getgenv().celina_Running then
     warn("Script already running!")
     return
